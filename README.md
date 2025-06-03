@@ -57,6 +57,7 @@ Here are some things you can ask:
 
 "Give me a reason to smile" 😊
 
+
 🙌 Acknowledgements
 Thanks to Google’s Gemini API for the incredible generative power.
 
@@ -66,10 +67,5 @@ Thanks to Google’s Gemini API for the incredible generative power.
 🌐 LinkedIn: https://www.linkedin.com/in/vasantha-rubini-s-7a39162a2/
 📧 svasantharubini460@gmail.com
 
-⭐ Star this Repository
-If this chatbot made you smile or helped even a bit, consider giving it a ⭐ on GitHub. Your support means the world! 🙏
 
-“Keep going, keep growing. You’re doing better than you think.” 🌈
-
----
 
